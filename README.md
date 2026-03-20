@@ -28,9 +28,9 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ashwanithakurbhumihar123-_?theme=dark&font=Baloo&ext=heatmap)
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ashwani-Thakur27&theme=onedark&no-frame=true&margin-w=10" />
+![Ashwani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwani-Thakur27&theme=tokyo-night)
 
 ## 🐍 Contribution Snake
 
