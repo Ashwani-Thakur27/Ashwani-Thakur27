@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwani Thakur
 
-<!--
-**Ashwani-Thakur27/Ashwani-Thakur27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=Ashwani-Thakur27&label=Profile%20views&color=0e75b6&style=flat)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 DSA & Competitive Programming
+- 🔥 Daily coding streak builder
+- 🎯 Goal: Crack top product-based company
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- Data Structures & Algorithms (C++)
+- Problem Solving (LeetCode + GFG)
+
+## 📊 Coding Profiles
+- 🔗 LeetCode: [Visit](https://leetcode.com/u/ashwanithakurbhumihar123-_/)
+- 🔗 GFG: [Visit](https://www.geeksforgeeks.org/profile/ashwanithakur27/)
+
+## 💼 LinkedIn
+- 🔗 [My LinkedIn Profile](https://linkedin.com/in/Ashwani-Thakur27)
+
+## 📈 My Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashwani-Thakur27&show_icons=true&theme=tokyonight)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashwani-Thakur27&theme=tokyonight)
+
+## 🧩 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ashwanithakurbhumihar123-_?theme=dark&font=Baloo&ext=heatmap)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Ashwani-Thakur27&theme=onedark)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Ashwani-Thakur27/Ashwani-Thakur27/blob/output/github-contribution-grid-snake.svg)
+
+## 📌 My Projects
+- 📂 DSA Repository: https://github.com/Ashwani-Thakur27/DSA
+
+## ⚡ Fun Fact
+- I code daily no matter what 💯
