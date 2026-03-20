@@ -30,7 +30,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ashwani-Thakur27&theme=onedark)
+<img src="https://github-profile-trophy.vercel.app/?username=Ashwani-Thakur27&theme=onedark&no-frame=true&margin-w=10" />
 
 ## 🐍 Contribution Snake
 
